@@ -24,7 +24,9 @@ prazo, notas e anexos. Tem kanban, checklist com responsáveis e prazos, calend�
 os dois sócios.
 
 `JavaScript` `Three.js` `Node.js` `Supabase` · servidor sem dependências ·
-**[abrir a demonstração](https://lucasmandelblatt.github.io/mapa-blatt/demo/)** (só leitura, dados fictícios)
+**[abrir a demonstração](https://lucasmandelblatt.github.io/mapa-blatt/demo/)** (só leitura, dados fictícios) ·
+[decisões](https://github.com/lucasmandelblatt/mapa-blatt/blob/main/01-DECISOES.md) ·
+[arquitetura](https://github.com/lucasmandelblatt/mapa-blatt/blob/main/00-BIBLIA.md)
 
 ### [Sistema Liga Retrô](https://github.com/lucasmandelblatt/liga-retro-sistema): padrões de fotos de produto para e-commerce
 > 🎥 _link do vídeo aqui_
