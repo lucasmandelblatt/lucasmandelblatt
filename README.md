@@ -23,7 +23,8 @@ Todas as áreas da Blatt, marca que estou construindo com meu sócio, num mapa 3
 prazo, notas e anexos. Tem kanban, checklist com responsáveis e prazos, calendário e sincronização em tempo real entre
 os dois sócios.
 
-`JavaScript` `Three.js` `Node.js` `Supabase` · servidor sem dependências · backup diário por GitHub Action
+`JavaScript` `Three.js` `Node.js` `Supabase` · servidor sem dependências ·
+**[abrir a demonstração](https://lucasmandelblatt.github.io/mapa-blatt/demo/)** (só leitura, dados fictícios)
 
 ### [Sistema Liga Retrô](https://github.com/lucasmandelblatt/liga-retro-sistema): padrões de fotos de produto para e-commerce
 > 🎥 _link do vídeo aqui_
